@@ -1,0 +1,19 @@
+{
+  "name": "steveaccount/mnb",
+  "description": "Returns actual currency rate of MNB.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Steve",
+      "email": "boroczistvan0396@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "\\Mnb": "/"
+    }
+  },
+  "require": {
+  }
+}
